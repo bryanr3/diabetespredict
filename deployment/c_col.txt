@@ -1,0 +1,1 @@
+["gender", "smoking_history", "bmi_category"]
